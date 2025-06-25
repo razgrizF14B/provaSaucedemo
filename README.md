@@ -19,8 +19,8 @@ npx cypress open
 
 # Funcionalidades 
 
-COLOCAR MEU LINK DO GITHUB
+[Funcionalidades].([link](https://github.com/razgrizF14B/provaSaucedemo/tree/main/cypress/e2e))
 
 # Casos de teste BDD
 
-COLOCAR MEU LINK DO GITHUB
+[features BDD].([link](https://github.com/razgrizF14B/provaSaucedemo/tree/main/features))
